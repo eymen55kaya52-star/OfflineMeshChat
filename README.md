@@ -67,3 +67,12 @@ Uygulamanın düzgün çalışabilmesi için cihazlarda şu donanım anahtarlar�
 ## 👨‍💻 Geliştirici
 
 Bu proje, modern mobil ağ teknolojileri ve çevrimdışı haberleşme sistemleri (Mesh Networks) üzerinde pratik yapmak amacıyla geliştirilmiştir. Katkıda bulunmak veya geliştirmek istiyorsanız depoyu fork'layabilir ya daissue açabilirsiniz.
+
+
+<div align="center">
+
+<a href="https://github.com/eymen55kaya52-star/OfflineMeshChat/releases/latest/download/meshtr.apk">
+  <img src="https://img.shields.io/badge/📥%20APK%20İNDİR-EN%20SON%20SÜRÜM-00A884?style=for-the-badge&logo=android&logoColor=white" alt="APK İndir" height="50"/>
+</a>
+
+</div>
